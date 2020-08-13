@@ -8,8 +8,7 @@
 - Single-short-session only: never do long-time sessions to protect yourself
 
 # WHEN
-- I realize that I can not use Anydesk/Teamviewer/Ultraviewer on my Virtualbox Windows with smooth control. Because it needs Hardware to render graphic
-https://anydesk.oovoo.pro/anydesk-fix-transmission-is-too-slow/
+- I realize that I can not use Anydesk/Teamviewer/Ultraviewer on my Virtualbox Windows with smooth control. Because it needs Hardware to render graphic.
 - Remote Desktop Connection is good, they do graphic rendering via guest computer, not host computer. And the connection speed of Ngrok is good too! But random disconnect after a few minutes.
 
 # WHY
